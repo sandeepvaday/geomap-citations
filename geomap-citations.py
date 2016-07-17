@@ -1,3 +1,7 @@
+""" This module reads a map of countries and corresponding counts and 
+    then generates a color coded map based on counts.
+"""
+
 
 import sys
 import operator
